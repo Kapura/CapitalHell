@@ -5,6 +5,7 @@ Temp/
 Library/
 Build/*
 Builds/*
+TurboBuilds/*
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -20,6 +21,7 @@ obj/
 *.user
 *.unityproj
 *.booproj
+.vs/*
 
 # ============ #
 # OS generated #
@@ -32,3 +34,5 @@ obj/
 ehthumbs.db
 Thumbs.db
 /*.DotSettings
+
+*.zip

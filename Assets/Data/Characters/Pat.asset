@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a6459a44c0941408a48d5a4e52f613, type: 3}
+  m_Name: Pat
+  m_EditorClassIdentifier: 
+  characterName: Patches Toomato
+  characterImage: {fileID: 21300000, guid: 69077a6c0a81884419c3743c5688aae5, type: 3}
+  shipColor: {r: 0.9264706, g: 0.8625761, b: 0, a: 1}
